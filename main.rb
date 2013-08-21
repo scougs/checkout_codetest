@@ -1,7 +1,6 @@
 require 'pry'
 
 require_relative 'product'
-require_relative 'deals'
 require_relative 'checkout'
 
 fr1 = Product.new("fr1", "Fruit Tea", 3.11)
